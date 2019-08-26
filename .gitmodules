@@ -1,0 +1,3 @@
+[submodule "qmlscene"]
+	path = qmlscene
+	url = ../qml-graphiscsscene.git
